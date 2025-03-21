@@ -1,0 +1,161 @@
+Producer Price Index item,Attribute,Unit,Value
+Unprocessed foodstuffs and feedstuffs,Month-to-month December 2024 to January 2025,Percent change,0.5
+Unprocessed foodstuffs and feedstuffs,Year-over-year January 2024 to January 2025,Percent change,10.4
+Unprocessed foodstuffs and feedstuffs,Year-to-date avg. 2025 to avg. 2024,Percent change,3.5
+Unprocessed foodstuffs and feedstuffs,Annual 2022,Percent change,26.7
+Unprocessed foodstuffs and feedstuffs,Annual 2023,Percent change,-10.3
+Unprocessed foodstuffs and feedstuffs,Annual 2024,Percent change,-3
+Unprocessed foodstuffs and feedstuffs,20-year historical average,Percent change,3.6
+Unprocessed foodstuffs and feedstuffs,Lower bound of prediction interval 2025,Percent change,
+Unprocessed foodstuffs and feedstuffs,Mid point of prediction interval 2025,Percent change,
+Unprocessed foodstuffs and feedstuffs,Upper bound of prediction interval 2025,Percent change,
+Processed foods and feeds,Month-to-month December 2024 to January 2025,Percent change,0.5
+Processed foods and feeds,Year-over-year January 2024 to January 2025,Percent change,4.7
+Processed foods and feeds,Year-to-date avg. 2025 to avg. 2024,Percent change,2.2
+Processed foods and feeds,Annual 2022,Percent change,14
+Processed foods and feeds,Annual 2023,Percent change,-2
+Processed foods and feeds,Annual 2024,Percent change,-0.6
+Processed foods and feeds,20-year historical average,Percent change,3.2
+Processed foods and feeds,Lower bound of prediction interval 2025,Percent change,
+Processed foods and feeds,Mid point of prediction interval 2025,Percent change,
+Processed foods and feeds,Upper bound of prediction interval 2025,Percent change,
+Finished consumer foods,Month-to-month December 2024 to January 2025,Percent change,0.8
+Finished consumer foods,Year-over-year January 2024 to January 2025,Percent change,6.7
+Finished consumer foods,Year-to-date avg. 2025 to avg. 2024,Percent change,3.6
+Finished consumer foods,Annual 2022,Percent change,14.2
+Finished consumer foods,Annual 2023,Percent change,2
+Finished consumer foods,Annual 2024,Percent change,3.3
+Finished consumer foods,20-year historical average,Percent change,3
+Finished consumer foods,Lower bound of prediction interval 2025,Percent change,
+Finished consumer foods,Mid point of prediction interval 2025,Percent change,
+Finished consumer foods,Upper bound of prediction interval 2025,Percent change,
+Farm-level cattle,Month-to-month December 2024 to January 2025,Percent change,5.2
+Farm-level cattle,Year-over-year January 2024 to January 2025,Percent change,20.6
+Farm-level cattle,Year-to-date avg. 2025 to avg. 2024,Percent change,6.8
+Farm-level cattle,Annual 2022,Percent change,18.1
+Farm-level cattle,Annual 2023,Percent change,22
+Farm-level cattle,Annual 2024,Percent change,10.9
+Farm-level cattle,20-year historical average,Percent change,4.8
+Farm-level cattle,Lower bound of prediction interval 2025,Percent change,-7
+Farm-level cattle,Mid point of prediction interval 2025,Percent change,6.9
+Farm-level cattle,Upper bound of prediction interval 2025,Percent change,24
+Wholesale beef,Month-to-month December 2024 to January 2025,Percent change,4.9
+Wholesale beef,Year-over-year January 2024 to January 2025,Percent change,14.8
+Wholesale beef,Year-to-date avg. 2025 to avg. 2024,Percent change,8.6
+Wholesale beef,Annual 2022,Percent change,-5.2
+Wholesale beef,Annual 2023,Percent change,13.5
+Wholesale beef,Annual 2024,Percent change,5.8
+Wholesale beef,20-year historical average,Percent change,4.4
+Wholesale beef,Lower bound of prediction interval 2025,Percent change,-11.3
+Wholesale beef,Mid point of prediction interval 2025,Percent change,4.6
+Wholesale beef,Upper bound of prediction interval 2025,Percent change,24.4
+Wholesale pork,Month-to-month December 2024 to January 2025,Percent change,-3.6
+Wholesale pork,Year-over-year January 2024 to January 2025,Percent change,1.3
+Wholesale pork,Year-to-date avg. 2025 to avg. 2024,Percent change,0.1
+Wholesale pork,Annual 2022,Percent change,-2.2
+Wholesale pork,Annual 2023,Percent change,-3.7
+Wholesale pork,Annual 2024,Percent change,11.9
+Wholesale pork,20-year historical average,Percent change,2.1
+Wholesale pork,Lower bound of prediction interval 2025,Percent change,-15.2
+Wholesale pork,Mid point of prediction interval 2025,Percent change,0.3
+Wholesale pork,Upper bound of prediction interval 2025,Percent change,19.7
+Wholesale poultry,Month-to-month December 2024 to January 2025,Percent change,-1.2
+Wholesale poultry,Year-over-year January 2024 to January 2025,Percent change,3.7
+Wholesale poultry,Year-to-date avg. 2025 to avg. 2024,Percent change,-2.6
+Wholesale poultry,Annual 2022,Percent change,17.3
+Wholesale poultry,Annual 2023,Percent change,-18
+Wholesale poultry,Annual 2024,Percent change,-0.1
+Wholesale poultry,20-year historical average,Percent change,1.9
+Wholesale poultry,Lower bound of prediction interval 2025,Percent change,-14
+Wholesale poultry,Mid point of prediction interval 2025,Percent change,-3.6
+Wholesale poultry,Upper bound of prediction interval 2025,Percent change,8.6
+Farm-level eggs,Month-to-month December 2024 to January 2025,Percent change,31.4
+Farm-level eggs,Year-over-year January 2024 to January 2025,Percent change,183.7
+Farm-level eggs,Year-to-date avg. 2025 to avg. 2024,Percent change,93.8
+Farm-level eggs,Annual 2022,Percent change,163.1
+Farm-level eggs,Annual 2023,Percent change,-28.3
+Farm-level eggs,Annual 2024,Percent change,43.1
+Farm-level eggs,20-year historical average,Percent change,14.2
+Farm-level eggs,Lower bound of prediction interval 2025,Percent change,-4.1
+Farm-level eggs,Mid point of prediction interval 2025,Percent change,82.6
+Farm-level eggs,Upper bound of prediction interval 2025,Percent change,293.1
+Farm-level milk,Month-to-month December 2024 to January 2025,Percent change,-4.9
+Farm-level milk,Year-over-year January 2024 to January 2025,Percent change,10.2
+Farm-level milk,Year-to-date avg. 2025 to avg. 2024,Percent change,-2
+Farm-level milk,Annual 2022,Percent change,36.7
+Farm-level milk,Annual 2023,Percent change,-19.9
+Farm-level milk,Annual 2024,Percent change,10.4
+Farm-level milk,20-year historical average,Percent change,3.8
+Farm-level milk,Lower bound of prediction interval 2025,Percent change,-26
+Farm-level milk,Mid point of prediction interval 2025,Percent change,-3.5
+Farm-level milk,Upper bound of prediction interval 2025,Percent change,28.6
+Wholesale dairy,Month-to-month December 2024 to January 2025,Percent change,0.4
+Wholesale dairy,Year-over-year January 2024 to January 2025,Percent change,6.9
+Wholesale dairy,Year-to-date avg. 2025 to avg. 2024,Percent change,1.4
+Wholesale dairy,Annual 2022,Percent change,18.3
+Wholesale dairy,Annual 2023,Percent change,-6.1
+Wholesale dairy,Annual 2024,Percent change,3.2
+Wholesale dairy,20-year historical average,Percent change,2.5
+Wholesale dairy,Lower bound of prediction interval 2025,Percent change,-6.8
+Wholesale dairy,Mid point of prediction interval 2025,Percent change,2.5
+Wholesale dairy,Upper bound of prediction interval 2025,Percent change,13.2
+Farm-level soybeans,Month-to-month December 2024 to January 2025,Percent change,4.8
+Farm-level soybeans,Year-over-year January 2024 to January 2025,Percent change,-16.7
+Farm-level soybeans,Year-to-date avg. 2025 to avg. 2024,Percent change,-6.6
+Farm-level soybeans,Annual 2022,Percent change,11.2
+Farm-level soybeans,Annual 2023,Percent change,-8.3
+Farm-level soybeans,Annual 2024,Percent change,-22.4
+Farm-level soybeans,20-year historical average,Percent change,3.8
+Farm-level soybeans,Lower bound of prediction interval 2025,Percent change,-24.9
+Farm-level soybeans,Mid point of prediction interval 2025,Percent change,-6.6
+Farm-level soybeans,Upper bound of prediction interval 2025,Percent change,18.9
+Wholesale fats and oils,Month-to-month December 2024 to January 2025,Percent change,-1.7
+Wholesale fats and oils,Year-over-year January 2024 to January 2025,Percent change,-5
+Wholesale fats and oils,Year-to-date avg. 2025 to avg. 2024,Percent change,-1.9
+Wholesale fats and oils,Annual 2022,Percent change,26.1
+Wholesale fats and oils,Annual 2023,Percent change,-16.3
+Wholesale fats and oils,Annual 2024,Percent change,-10.3
+Wholesale fats and oils,20-year historical average,Percent change,4.2
+Wholesale fats and oils,Lower bound of prediction interval 2025,Percent change,-14.7
+Wholesale fats and oils,Mid point of prediction interval 2025,Percent change,-4
+Wholesale fats and oils,Upper bound of prediction interval 2025,Percent change,8.8
+Farm-level fruits,Month-to-month December 2024 to January 2025,Percent change,-13.7
+Farm-level fruits,Year-over-year January 2024 to January 2025,Percent change,-2.4
+Farm-level fruits,Year-to-date avg. 2025 to avg. 2024,Percent change,7.5
+Farm-level fruits,Annual 2022,Percent change,18.1
+Farm-level fruits,Annual 2023,Percent change,-0.6
+Farm-level fruits,Annual 2024,Percent change,-0.7
+Farm-level fruits,20-year historical average,Percent change,2.7
+Farm-level fruits,Lower bound of prediction interval 2025,Percent change,-4.9
+Farm-level fruits,Mid point of prediction interval 2025,Percent change,11.5
+Farm-level fruits,Upper bound of prediction interval 2025,Percent change,31.5
+Farm-level vegetables,Month-to-month December 2024 to January 2025,Percent change,-22.3
+Farm-level vegetables,Year-over-year January 2024 to January 2025,Percent change,-14
+Farm-level vegetables,Year-to-date avg. 2025 to avg. 2024,Percent change,-18.6
+Farm-level vegetables,Annual 2022,Percent change,51.4
+Farm-level vegetables,Annual 2023,Percent change,-12.1
+Farm-level vegetables,Annual 2024,Percent change,-0.3
+Farm-level vegetables,20-year historical average,Percent change,5.2
+Farm-level vegetables,Lower bound of prediction interval 2025,Percent change,-27.8
+Farm-level vegetables,Mid point of prediction interval 2025,Percent change,-8.8
+Farm-level vegetables,Upper bound of prediction interval 2025,Percent change,16.4
+Farm-level wheat,Month-to-month December 2024 to January 2025,Percent change,-0.2
+Farm-level wheat,Year-over-year January 2024 to January 2025,Percent change,-12.6
+Farm-level wheat,Year-to-date avg. 2025 to avg. 2024,Percent change,-5.4
+Farm-level wheat,Annual 2022,Percent change,31
+Farm-level wheat,Annual 2023,Percent change,-23.1
+Farm-level wheat,Annual 2024,Percent change,-22.3
+Farm-level wheat,20-year historical average,Percent change,5
+Farm-level wheat,Lower bound of prediction interval 2025,Percent change,-25.9
+Farm-level wheat,Mid point of prediction interval 2025,Percent change,-5.2
+Farm-level wheat,Upper bound of prediction interval 2025,Percent change,21.8
+Wholesale wheat flour,Month-to-month December 2024 to January 2025,Percent change,-0.3
+Wholesale wheat flour,Year-over-year January 2024 to January 2025,Percent change,-4.9
+Wholesale wheat flour,Year-to-date avg. 2025 to avg. 2024,Percent change,-2
+Wholesale wheat flour,Annual 2022,Percent change,23.3
+Wholesale wheat flour,Annual 2023,Percent change,-5.8
+Wholesale wheat flour,Annual 2024,Percent change,-6.8
+Wholesale wheat flour,20-year historical average,Percent change,2.5
+Wholesale wheat flour,Lower bound of prediction interval 2025,Percent change,-11.5
+Wholesale wheat flour,Mid point of prediction interval 2025,Percent change,-2
+Wholesale wheat flour,Upper bound of prediction interval 2025,Percent change,9
